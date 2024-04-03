@@ -13,3 +13,8 @@
 OPENAI_API_KEY=
 HUGGINGFACEHUB_API_TOKEN=
 ```
+
+## streamlit 실행
+```
+streamlit run llm_ai_service_5.1_chat.py
+```
